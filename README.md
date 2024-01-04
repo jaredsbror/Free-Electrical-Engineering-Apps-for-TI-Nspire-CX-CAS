@@ -7,7 +7,11 @@ Sincerely,
 jaredsbror :)
 
 Windows.tns - Used in filtering signals and extracting data via convolution with Window functions
+
 Energy.tns - Used to calculate the energy of both discrete-time and continuous-time signals
+
 Power.tns - Used to calculate the power of both discrete-time and continuous-time, periodic signals
+
 Functions.tns - Used to generate function definitions for unit step (heaviside) functions, as well as rect, triangle, and sinc functions
+
 Mag.tns - Used to determine the magnitude response of a pole/zero plot in both Laplace and Z-Domain
