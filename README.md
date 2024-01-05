@@ -15,3 +15,5 @@ Power.tns - Used to calculate the power of both discrete-time and continuous-tim
 Functions.tns - Used to generate function definitions for unit step (heaviside) functions, as well as rect, triangle, and sinc functions
 
 Mag.tns - Used to determine the magnitude response of a pole/zero plot in both Laplace and Z-Domain
+
+Resistors.tns - (1) Determine parallel resistance (2) Determine which missing resistor value produces a specific equivalent resistance
