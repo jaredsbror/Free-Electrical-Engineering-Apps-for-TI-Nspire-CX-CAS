@@ -101,7 +101,7 @@ Circuit Values
 
     ETC... (YET TO BE IMPLEMENTED)
       
-Complex Numbers/Conversions
+Complex Arithmetic and Conversions
 
     Rectangular (YET TO BE IMPLEMENTED)
     
@@ -109,7 +109,7 @@ Complex Numbers/Conversions
 
     ETC... (YET TO BE IMPLEMENTED)
 
-Complex Resistance
+Complex Analysis
 
     Thevenin (YET TO BE IMPLEMENTED)
 
