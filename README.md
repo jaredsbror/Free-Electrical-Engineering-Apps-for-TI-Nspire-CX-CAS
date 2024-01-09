@@ -71,27 +71,27 @@ Circuit Values
     
         voltage(i,r)
         
-        (avgvoltage)
+        avgvoltage (YET TO BE IMPLEMENTED)
         
         voltagedrop(voltage,resistorlist)
         
-  Current
+    Current
   
         current(v,r)
         
-        (avgcurrent)
+        avgcurrent (YET TO BE IMPLEMENTED)
         
         totalcurrent(voltage,resistorlist)
         
-  Resistance
+    Resistance
   
-      resistance(v,i)
+        resistance(v,i)
       
-  Power
+    Power
   
-      power()
+        power()
       
-      Missing value (YET TO BE IMPLEMENTED)
+        Missing value (YET TO BE IMPLEMENTED)
       
 Complex Numbers
 
