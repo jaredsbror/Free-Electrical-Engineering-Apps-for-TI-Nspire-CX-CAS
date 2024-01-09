@@ -25,7 +25,7 @@ EEE_CircValues.tns ("circuit values") - Determine the power, current, voltage, a
 EEE_Distance.tns - (Still in testing) Calculate the distance between two complex points in the complex plane
 
 
-COMPLETE VISION OF FUNCTIONS/PROGRAMS TO BE CREATED
+CURRENT VISION OF FUNCTIONS/PROGRAMS TO BE CREATED
 
 Base Conversions/Functions
 
@@ -48,6 +48,8 @@ Base Conversions/Functions
     Addition (YET TO BE IMPLEMENTED)
     
     Subtraction (YET TO BE IMPLEMENTED)
+
+    ETC... (YET TO BE IMPLEMENTED)
     
 Capacitors
 
@@ -58,12 +60,16 @@ Capacitors
     Parallel (YET TO BE IMPLEMENTED)
     
     Combined (YET TO BE IMPLEMENTED)
+
+    ETC... (YET TO BE IMPLEMENTED)
     
 Circuit Analysis
 
     RLC (YET TO BE IMPLEMENTED)
     
     RC (YET TO BE IMPLEMENTED)
+
+    ETC... (YET TO BE IMPLEMENTED)
     
 Circuit Values
 
@@ -92,12 +98,28 @@ Circuit Values
         power()
       
         Missing value (YET TO BE IMPLEMENTED)
+
+    ETC... (YET TO BE IMPLEMENTED)
       
-Complex Numbers
+Complex Numbers/Conversions
 
     Rectangular (YET TO BE IMPLEMENTED)
     
     Polar (YET TO BE IMPLEMENTED)
+
+    ETC... (YET TO BE IMPLEMENTED)
+
+Complex Resistance
+
+    Thevenin (YET TO BE IMPLEMENTED)
+
+    Capacitors (YET TO BE IMPLEMENTED)
+
+    Inductors (YET TO BE IMPLEMENTED)
+
+    Resistors (YET TO BE IMPLEMENTED)
+
+    ETC... (YET TO BE IMPLEMENTED)
     
 Diodes
 
@@ -107,7 +129,7 @@ Diodes
     
     Voltage drop (YET TO BE IMPLEMENTED)
     
-    Etc (YET TO BE IMPLEMENTED)
+    ETC... (YET TO BE IMPLEMENTED)
     
 Error Analysis
 
@@ -116,6 +138,8 @@ Error Analysis
     Tolerance (YET TO BE IMPLEMENTED)
     
     Tolerance Range (YET TO BE IMPLEMENTED)
+
+    ETC... (YET TO BE IMPLEMENTED)
     
 Functions
 
@@ -140,6 +164,8 @@ Functions
     Sinc
     
         sinc(modifier)
+
+    ETC... (YET TO BE IMPLEMENTED)
         
 Inductors
 
@@ -148,6 +174,8 @@ Inductors
     Parallel (YET TO BE IMPLEMENTED)
     
     Combined (YET TO BE IMPLEMENTED)
+
+    ETC... (YET TO BE IMPLEMENTED)
     
 Op Amps
 
@@ -156,6 +184,14 @@ Op Amps
     Non-inverting (YET TO BE IMPLEMENTED)
     
     Etc (YET TO BE IMPLEMENTED)
+
+    Gain (YET TO BE IMPLEMENTED)
+
+    Corner Frequency (YET TO BE IMPLEMENTED)
+
+    Gain BandWidth (YET TO BE IMPLEMENTED)
+
+    ETC... (YET TO BE IMPLEMENTED)
     
 Resistors
 
@@ -180,6 +216,10 @@ Resistors
         solveparallel()
         
     Combined (YET TO BE IMPLEMENTED)
+
+    Thevenin Resistance (YET TO BE IMPLEMENTED)
+
+    ETC... (YET TO BE IMPLEMENTED)
     
 Signal Characteristics
 
@@ -191,9 +231,9 @@ Signal Characteristics
             
             powdsum(array)
             
-    Continuous-time
+        Continuous-time
     
-        powc(period,fx)
+            powc(period,fx)
         
     Energy
     
@@ -219,23 +259,29 @@ Signal Characteristics
             
             engc4(fx1,lower1,upper1,fx2,lower2,upper2,fx3,lower3,upper3,fx4,lower4,upper4)
             
-            Magnitude Response
+    Magnitude Response
             
             magz()
             
             mags()
-            
+              
     Frequency Response (YET TO BE IMPLEMENTED)
     
     Period (YET TO BE IMPLEMENTED)
     
     Frequency (YET TO BE IMPLEMENTED)
+
+    ETC... (YET TO BE IMPLEMENTED)
     
 Signal Processing
 
     Convolution (YET TO BE IMPLEMENTED)
     
     Filtering (YET TO BE IMPLEMENTED)
+
+    Corner Frequency (YET TO BE IMPLEMENTED)
+
+    ETC... (YET TO BE IMPLEMENTED)
     
 Windowing
 
@@ -254,6 +300,8 @@ Windowing
     nutall(length)
     
     rectangle(length)
+
+    ETC... (YET TO BE IMPLEMENTED)
     
 Sources
 
@@ -262,12 +310,16 @@ Sources
         Voltage (YET TO BE IMPLEMENTED)
         
         Current (YET TO BE IMPLEMENTED)
+
+        ETC... (YET TO BE IMPLEMENTED)
         
     Dependent Sources
     
         Voltage (YET TO BE IMPLEMENTED)
         
         Current (YET TO BE IMPLEMENTED)
+
+        ETC... (YET TO BE IMPLEMENTED)
         
 Transistors
 
@@ -288,4 +340,6 @@ Transistors
     Gm (YET TO BE IMPLEMENTED)
     
     Id (YET TO BE IMPLEMENTED)
+
+    ETC... (YET TO BE IMPLEMENTED)
     
