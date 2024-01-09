@@ -1,5 +1,7 @@
 IMPORTANT NOTE:
-I create these programs/functions in my free time and they do not represent any professional development.
+1) This repository is ACTIVELY being updated and represents a WORK IN PROGRESS. Please check again tomorrow if you see something wrong and likely the issue will already have been fixed. :)
+
+2) I create these programs/functions in my free time and they do not represent any professional development.
 They are not perfect, and although I carefully aim to create good programs, they will have mistakes and quirks.
 IF YOU NOTICE ANYTHING UNUSUAL about how the programs/functions behave, PLEASE email me at electricalengineeringexpanded@gmail.com.
 I am constantly learning and hope to create better quality programs in the future.
