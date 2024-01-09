@@ -29,41 +29,41 @@ COMPLETE VISION OF FUNCTIONS/PROGRAMS TO BE CREATED
 
 Base Conversions/Functions
 
-    Binary (IN PROGRESS)
+    Binary (YET TO BE IMPLEMENTED)
     
-    Decimal (IN PROGRESS)
+    Decimal (YET TO BE IMPLEMENTED)
     
-    Hexadecimal (IN PROGRESS)
+    Hexadecimal (YET TO BE IMPLEMENTED)
     
-    Two's complement (IN PROGRESS)
+    Two's complement (YET TO BE IMPLEMENTED)
     
-    Floating (IN PROGRESS)
+    Floating (YET TO BE IMPLEMENTED)
     
-    Fixed point (IN PROGRESS)
+    Fixed point (YET TO BE IMPLEMENTED)
     
-    Multiplication (IN PROGRESS)
+    Multiplication (YET TO BE IMPLEMENTED)
     
-    Division (IN PROGRESS)
+    Division (YET TO BE IMPLEMENTED)
     
-    Addition (IN PROGRESS)
+    Addition (YET TO BE IMPLEMENTED)
     
-    Subtraction (IN PROGRESS)
+    Subtraction (YET TO BE IMPLEMENTED)
     
 Capacitors
 
-    Miller’s Theorem (IN PROGRESS)
+    Miller’s Theorem (YET TO BE IMPLEMENTED)
     
-    Series (IN PROGRESS)
+    Series (YET TO BE IMPLEMENTED)
     
-    Parallel (IN PROGRESS)
+    Parallel (YET TO BE IMPLEMENTED)
     
-    Combined (IN PROGRESS)
+    Combined (YET TO BE IMPLEMENTED)
     
 Circuit Analysis
 
-    RLC (IN PROGRESS)
+    RLC (YET TO BE IMPLEMENTED)
     
-    RC (IN PROGRESS)
+    RC (YET TO BE IMPLEMENTED)
     
 Circuit Values
 
@@ -91,30 +91,31 @@ Circuit Values
   
       power()
       
-      Missing value (IN PROGRESS)
+      Missing value (YET TO BE IMPLEMENTED)
       
 Complex Numbers
 
-    Rectangular (IN PROGRESS)
+    Rectangular (YET TO BE IMPLEMENTED)
     
-    Polar (IN PROGRESS)
+    Polar (YET TO BE IMPLEMENTED)
     
 Diodes
-    Ideal diode (IN PROGRESS)
+
+    Ideal diode (YET TO BE IMPLEMENTED)
     
-    Current (IN PROGRESS)
+    Current (YET TO BE IMPLEMENTED)
     
-    Voltage drop (IN PROGRESS)
+    Voltage drop (YET TO BE IMPLEMENTED)
     
-    Etc (IN PROGRESS)
+    Etc (YET TO BE IMPLEMENTED)
     
 Error Analysis
 
-    Margin of Error (IN PROGRESS)
+    Margin of Error (YET TO BE IMPLEMENTED)
     
-    Tolerance (IN PROGRESS)
+    Tolerance (YET TO BE IMPLEMENTED)
     
-    Tolerance Range (IN PROGRESS)
+    Tolerance Range (YET TO BE IMPLEMENTED)
     
 Functions
 
@@ -142,19 +143,19 @@ Functions
         
 Inductors
 
-    Series (IN PROGRESS)
+    Series (YET TO BE IMPLEMENTED)
     
-    Parallel (IN PROGRESS)
+    Parallel (YET TO BE IMPLEMENTED)
     
-    Combined (IN PROGRESS)
+    Combined (YET TO BE IMPLEMENTED)
     
 Op Amps
 
-    Inverting (IN PROGRESS)
+    Inverting (YET TO BE IMPLEMENTED)
     
-    Non-inverting (IN PROGRESS)
+    Non-inverting (YET TO BE IMPLEMENTED)
     
-    Etc (IN PROGRESS)
+    Etc (YET TO BE IMPLEMENTED)
     
 Resistors
 
@@ -178,7 +179,7 @@ Resistors
         
         solveparallel()
         
-    Combined (IN PROGRESS)
+    Combined (YET TO BE IMPLEMENTED)
     
 Signal Characteristics
 
@@ -224,17 +225,17 @@ Signal Characteristics
             
             mags()
             
-    Frequency Response (IN PROGRESS)
+    Frequency Response (YET TO BE IMPLEMENTED)
     
-    Period (IN PROGRESS)
+    Period (YET TO BE IMPLEMENTED)
     
-    Frequency (IN PROGRESS)
+    Frequency (YET TO BE IMPLEMENTED)
     
 Signal Processing
 
-    Convolution (IN PROGRESS)
+    Convolution (YET TO BE IMPLEMENTED)
     
-    Filtering (IN PROGRESS)
+    Filtering (YET TO BE IMPLEMENTED)
     
 Windowing
 
@@ -258,33 +259,33 @@ Sources
 
     Independent Sources
     
-        Voltage (IN PROGRESS)
+        Voltage (YET TO BE IMPLEMENTED)
         
-        Current (IN PROGRESS)
+        Current (YET TO BE IMPLEMENTED)
         
     Dependent Sources
     
-        Voltage (IN PROGRESS)
+        Voltage (YET TO BE IMPLEMENTED)
         
-        Current (IN PROGRESS)
+        Current (YET TO BE IMPLEMENTED)
         
 Transistors
 
-    Pmos (IN PROGRESS)
+    Pmos (YET TO BE IMPLEMENTED)
     
-    Nmos (IN PROGRESS)
+    Nmos (YET TO BE IMPLEMENTED)
     
-    Regimes (IN PROGRESS)
+    Regimes (YET TO BE IMPLEMENTED)
     
-    Kp (IN PROGRESS)
+    Kp (YET TO BE IMPLEMENTED)
     
-    Ucox (IN PROGRESS)
+    Ucox (YET TO BE IMPLEMENTED)
     
-    L (IN PROGRESS)
+    L (YET TO BE IMPLEMENTED)
     
-    W (IN PROGRESS)
+    W (YET TO BE IMPLEMENTED)
     
-    Gm (IN PROGRESS)
+    Gm (YET TO BE IMPLEMENTED)
     
-    Id (IN PROGRESS)
+    Id (YET TO BE IMPLEMENTED)
     
