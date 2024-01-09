@@ -8,7 +8,7 @@ I am constantly learning and hope to create better quality programs in the futur
 Sincerely,
 jaredsbror :)
 
-EEE_Windows.tns - Used in filtering signals and extracting data via convolution with Window functions
+EEE_Windows.tns - Generates Windowing functions which, in conjunction with convolution (not yet implemented), can serve to frame and extract signal data
 
 EEE_Energy.tns - Used to calculate the energy of both discrete-time and continuous-time signals
 
