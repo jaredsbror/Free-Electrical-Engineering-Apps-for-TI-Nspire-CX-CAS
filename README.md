@@ -55,11 +55,11 @@ Capacitors
 
     Miller’s Theorem (YET TO BE IMPLEMENTED)
     
-    Series (YET TO BE IMPLEMENTED)
+    Series
     
-    Parallel (YET TO BE IMPLEMENTED)
+    Parallel
     
-    Combined (YET TO BE IMPLEMENTED)
+    Combined
 
     ETC... (YET TO BE IMPLEMENTED)
     
@@ -169,11 +169,11 @@ Functions
         
 Inductors
 
-    Series (YET TO BE IMPLEMENTED)
+    Series
     
-    Parallel (YET TO BE IMPLEMENTED)
+    Parallel
     
-    Combined (YET TO BE IMPLEMENTED)
+    Combined
 
     ETC... (YET TO BE IMPLEMENTED)
     
@@ -215,7 +215,7 @@ Resistors
         
         solveparallel()
         
-    Combined (YET TO BE IMPLEMENTED)
+    Combined()
 
     Thevenin Resistance (YET TO BE IMPLEMENTED)
 
