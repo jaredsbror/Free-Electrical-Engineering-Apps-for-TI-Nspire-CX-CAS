@@ -1,5 +1,5 @@
 IMPORTANT NOTE:
-1) This repository is ACTIVELY being updated and represents a WORK IN PROGRESS. Please check again tomorrow if you see something wrong and likely the issue will already have been fixed. :)
+1) This repository may still be updated and represents a WORK IN PROGRESS. 
 
 2) I create these programs/functions in my free time and they do not represent any professional development.
 They are not perfect, and although I carefully aim to create good programs, they will have mistakes and quirks.
